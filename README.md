@@ -1,4 +1,4 @@
-# Flight-to-Safety, Housing, and Crisis Regimes
+
 
 This repo hosts the code and outputs for an empirical project on **flight‑to‑safety contagion** between exchange rates and residential property markets, using crisis‑state panel models, Markov switching, and TVP‑VAR connectedness. [web:105][web:145]
 
